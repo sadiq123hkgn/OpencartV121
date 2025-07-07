@@ -1,0 +1,14 @@
+19:16:36.758 [main]INFO  testCases.TC001_AccountRegistrationTest -Account registration successful.
+19:16:36.792 [main]INFO  testCases.TC001_AccountRegistrationTest -****** Finished TC001_AccountRegistrationTest ****
+19:16:45.181 [main]INFO  testCases.TC002_LoginTest -******* Starting TC_002_LoginTest******
+19:16:49.706 [main]INFO  testCases.TC002_LoginTest -******* Finished TC_002_LoginTest******
+19:48:31.974 [main]INFO  testCases.TC001_AccountRegistrationTest -****** Starting TC001_AccountRegistrationTest ****
+19:48:32.707 [main]INFO  testCases.TC001_AccountRegistrationTest -Clicked on My Account link
+19:48:33.487 [main]INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register Link
+19:48:33.507 [main]INFO  testCases.TC001_AccountRegistrationTest -Providing Customer Details...
+19:48:36.016 [main]INFO  testCases.TC001_AccountRegistrationTest -Validating expected confirmation message...
+19:48:36.100 [main]INFO  testCases.TC001_AccountRegistrationTest -Confirmation message received: Your Account Has Been Created!
+19:48:36.106 [main]INFO  testCases.TC001_AccountRegistrationTest -Account registration successful.
+19:48:36.106 [main]INFO  testCases.TC001_AccountRegistrationTest -****** Finished TC001_AccountRegistrationTest ****
+19:48:40.392 [main]INFO  testCases.TC002_LoginTest -******* Starting TC_002_LoginTest******
+19:48:43.459 [main]INFO  testCases.TC002_LoginTest -******* Finished TC_002_LoginTest******
